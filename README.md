@@ -20,7 +20,7 @@ Me chamo Emanuel Santana, nasci em Sao Paulo. Concluí um tecnologo em Analise e
     align="left" 
     alt="SQL Server" 
     title="SQLServer"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"          
 />
