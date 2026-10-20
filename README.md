@@ -18,9 +18,9 @@ Me chamo Emanuel Santana, nasci em Sao Paulo. Concluí um tecnologo em Analise e
 />
 <img 
     align="left" 
-    alt="Golang" 
-    title="Golang"
+    alt="SQL Server" 
+    title="SQLServer"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"          
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"          
 />
